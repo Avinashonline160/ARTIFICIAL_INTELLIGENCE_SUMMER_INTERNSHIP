@@ -1,0 +1,5 @@
+STREAMLIT LINK OF ALL PROJECTS
+
+PROJECT 1 - https://app-play-store-cxjq3vzdvrcgmjy6wjsp42.streamlit.app/
+PROJECT 2 - https://linear-regression-deployment-lh3aqnbv2wcveugnbjeffy.streamlit.app/
+PROJECT 3 - https://logistic-regression-n2svyzeb4smxkpk6cn4ktd.streamlit.app
