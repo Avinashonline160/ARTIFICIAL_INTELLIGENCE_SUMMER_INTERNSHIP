@@ -1,1 +1,1 @@
-https://share.streamlit.io/
+https://linear-regression-deployment-lh3aqnbv2wcveugnbjeffy.streamlit.app/
