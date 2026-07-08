@@ -7,3 +7,5 @@ PROJECT 2 - https://linear-regression-deployment-lh3aqnbv2wcveugnbjeffy.streamli
 PROJECT 3 - https://logistic-regression-n2svyzeb4smxkpk6cn4ktd.streamlit.app
 
 PROJECT 4 - https://employee-retention-iutywhqzszgckqxdudhvnb.streamlit.app
+
+PROJECT 5 - https://cat-vs-dog-image-classifier-79bgjjfygcf9uuwpvtbqkw.streamlit.app/
