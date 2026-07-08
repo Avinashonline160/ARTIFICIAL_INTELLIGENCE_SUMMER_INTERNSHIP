@@ -17,3 +17,5 @@ PROJECT 7 - https://outliers-score-h7a5bstphesuqwcsuwihzp.streamlit.app/
 PROJECT 8 https://canada-per-capita-income-prediction-bwhjl6yzazwxny9fw6zbpm.streamlit.app/
 
 PROJECT 9 - https://covid-19-detection-x-ray-bg5clrbb84rsr8udceofyl.streamlit.app
+
+PROJECT 10 - https://male-female-image-classifier-xvknhlayryyvmr5taudwsp.streamlit.app/
