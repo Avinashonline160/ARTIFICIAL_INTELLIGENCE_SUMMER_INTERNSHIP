@@ -15,3 +15,5 @@ PROJECT 6 - https://bbvlqhkyexb3fjlo2yikab.streamlit.app/
 PROJECT 7 - https://outliers-score-h7a5bstphesuqwcsuwihzp.streamlit.app/
 
 PROJECT 8 https://canada-per-capita-income-prediction-bwhjl6yzazwxny9fw6zbpm.streamlit.app/
+
+PROJECT 9 - https://covid-19-detection-x-ray-bg5clrbb84rsr8udceofyl.streamlit.app
