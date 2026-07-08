@@ -9,3 +9,5 @@ PROJECT 3 - https://logistic-regression-n2svyzeb4smxkpk6cn4ktd.streamlit.app
 PROJECT 4 - https://employee-retention-iutywhqzszgckqxdudhvnb.streamlit.app
 
 PROJECT 5 - https://cat-vs-dog-image-classifier-79bgjjfygcf9uuwpvtbqkw.streamlit.app/
+
+PROJECT 6 - https://bbvlqhkyexb3fjlo2yikab.streamlit.app/
